@@ -2,6 +2,9 @@
 using namespace std;
 
 
+struct Mahasiswa {
+
+};
 
 int main()
 {
