@@ -22,4 +22,5 @@ int main()
     cin >> mhs.umur;
 
     cout << endl;
+    cout << "\n Nim : " << mhs.nim;
 }
